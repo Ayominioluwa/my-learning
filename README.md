@@ -1,2 +1,2 @@
 # my-learning
-Putting every thing I can create with python as I am learning 
+Playing around with the things i'm learning
